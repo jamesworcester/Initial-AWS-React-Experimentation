@@ -81,5 +81,12 @@
       "lastPushTimeStamp": "2022-07-24T08:27:05.167Z",
       "lastPushDirHash": "it7c7MGManaAsNCEa1lMg+HU3O0="
     }
+  },
+  "storage": {
+    "imagestorage": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }
